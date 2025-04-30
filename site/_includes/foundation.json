@@ -36,7 +36,7 @@
     "genUrl": "/CONTRIBUTING.html"
   },
   "TRADEMARKS.md": {
-    "date": "2025-03-18T22:59:21.000Z",
+    "date": "2025-04-24T13:56:46.000Z",
     "srcPath": "TRADEMARKS.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/TRADEMARKS.md",
@@ -431,7 +431,7 @@
     "genUrl": "/agreements/membership/members.yaml"
   },
   "PROJECTS.yaml": {
-    "date": "2025-04-08T10:37:08.000Z",
+    "date": "2025-04-28T22:21:00.000Z",
     "srcPath": "PROJECTS.yaml",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/PROJECTS.yaml",
@@ -445,7 +445,7 @@
     "genUrl": "/SUPPORTERS.yaml"
   },
   "CONTACTS.yaml": {
-    "date": "2025-03-18T22:59:21.000Z",
+    "date": "2025-04-24T13:56:46.000Z",
     "srcPath": "CONTACTS.yaml",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/CONTACTS.yaml",
@@ -731,7 +731,7 @@
     "genUrl": "/agreements/bootstrapping/2024-03-25-bootstrapping-openrewrite-withdrawn.html"
   },
   "agreements/project-contribution/terms-and-conditions.md": {
-    "date": "2025-02-11T23:26:47.000Z",
+    "date": "2025-04-28T22:21:00.000Z",
     "srcPath": "agreements/project-contribution/terms-and-conditions.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/terms-and-conditions.md",
@@ -748,7 +748,7 @@
     "genUrl": "/agreements/project-contribution/terms-and-conditions.html"
   },
   "agreements/project-contribution/README.md": {
-    "date": "2025-01-27T18:24:09.000Z",
+    "date": "2025-04-28T18:52:14.000Z",
     "srcPath": "agreements/project-contribution/README.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/README.md",
@@ -799,7 +799,7 @@
     "genUrl": "/agreements/project-contribution/fiscal-sponsorship-agreement.html"
   },
   "agreements/project-contribution/onboarding-checklist.md": {
-    "date": "2025-03-31T12:42:57.000Z",
+    "date": "2025-04-28T22:21:00.000Z",
     "srcPath": "agreements/project-contribution/onboarding-checklist.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/onboarding-checklist.md",
@@ -894,5 +894,22 @@
       "foundation"
     ],
     "genUrl": "/COMMUNITY.html"
+  },
+  "agreements/bootstrapping/2025-03-17-bootstrapping-wildfly.md": {
+    "date": "2025-04-24T13:56:46.000Z",
+    "srcPath": "agreements/bootstrapping/2025-03-17-bootstrapping-wildfly.md",
+    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
+    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/bootstrapping/2025-03-17-bootstrapping-wildfly.md",
+    "type": "submodule",
+    "layout": "layouts/policies.vto",
+    "cssclasses": [
+      "bylaws",
+      "has-aside"
+    ],
+    "tags": [
+      "policies",
+      "legal"
+    ],
+    "genUrl": "/agreements/bootstrapping/2025-03-17-bootstrapping-wildfly.html"
   }
 }
