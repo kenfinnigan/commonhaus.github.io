@@ -911,5 +911,73 @@
       "legal"
     ],
     "genUrl": "/agreements/bootstrapping/2025-03-17-bootstrapping-wildfly.html"
+  },
+  "agreements/project-contribution/fiscal-sponsorship-amendment-email.md": {
+    "date": "2025-05-22T10:45:31.000Z",
+    "srcPath": "agreements/project-contribution/fiscal-sponsorship-amendment-email.md",
+    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
+    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/fiscal-sponsorship-amendment-email.md",
+    "type": "submodule",
+    "layout": "layouts/policies.vto",
+    "cssclasses": [
+      "bylaws",
+      "has-aside"
+    ],
+    "tags": [
+      "policies",
+      "legal"
+    ],
+    "genUrl": "/agreements/project-contribution/fiscal-sponsorship-amendment-email.html"
+  },
+  "agreements/project-contribution/fiscal-sponsorship-amendment.md": {
+    "date": "2025-05-22T10:45:31.000Z",
+    "srcPath": "agreements/project-contribution/fiscal-sponsorship-amendment.md",
+    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
+    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/fiscal-sponsorship-amendment.md",
+    "type": "submodule",
+    "layout": "layouts/policies.vto",
+    "cssclasses": [
+      "bylaws",
+      "has-aside"
+    ],
+    "tags": [
+      "policies",
+      "legal"
+    ],
+    "genUrl": "/agreements/project-contribution/fiscal-sponsorship-amendment.html"
+  },
+  "agreements/project-contribution/asset-transfer-amendment-email.md": {
+    "date": "2025-05-22T10:45:31.000Z",
+    "srcPath": "agreements/project-contribution/asset-transfer-amendment-email.md",
+    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
+    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/asset-transfer-amendment-email.md",
+    "type": "submodule",
+    "layout": "layouts/policies.vto",
+    "cssclasses": [
+      "bylaws",
+      "has-aside"
+    ],
+    "tags": [
+      "policies",
+      "legal"
+    ],
+    "genUrl": "/agreements/project-contribution/asset-transfer-amendment-email.html"
+  },
+  "agreements/project-contribution/asset-transfer-amendment.md": {
+    "date": "2025-05-22T10:45:31.000Z",
+    "srcPath": "agreements/project-contribution/asset-transfer-amendment.md",
+    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
+    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/asset-transfer-amendment.md",
+    "type": "submodule",
+    "layout": "layouts/policies.vto",
+    "cssclasses": [
+      "bylaws",
+      "has-aside"
+    ],
+    "tags": [
+      "policies",
+      "legal"
+    ],
+    "genUrl": "/agreements/project-contribution/asset-transfer-amendment.html"
   }
 }
