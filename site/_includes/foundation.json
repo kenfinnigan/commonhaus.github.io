@@ -208,7 +208,7 @@
     "genUrl": "/policies/code-of-conduct.html"
   },
   "policies/trademark-policy.md": {
-    "date": "2024-12-09T22:27:20.000Z",
+    "date": "2025-10-01T22:13:32.000Z",
     "srcPath": "policies/trademark-policy.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/policies/trademark-policy.md",
@@ -445,7 +445,7 @@
     "genUrl": "/SUPPORTERS.yaml"
   },
   "CONTACTS.yaml": {
-    "date": "2025-07-18T20:22:36.000Z",
+    "date": "2025-10-08T17:18:20.000Z",
     "srcPath": "CONTACTS.yaml",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/CONTACTS.yaml",
@@ -646,7 +646,7 @@
     "genUrl": "/policies/privacy-policy.html"
   },
   "policies/trademark-guidelines.md": {
-    "date": "2024-12-09T22:27:20.000Z",
+    "date": "2025-10-01T22:13:32.000Z",
     "srcPath": "policies/trademark-guidelines.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/policies/trademark-guidelines.md",
@@ -731,7 +731,7 @@
     "genUrl": "/agreements/bootstrapping/2024-03-25-bootstrapping-openrewrite-withdrawn.html"
   },
   "agreements/project-contribution/terms-and-conditions.md": {
-    "date": "2025-04-28T22:21:00.000Z",
+    "date": "2025-10-06T23:18:53.000Z",
     "srcPath": "agreements/project-contribution/terms-and-conditions.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/terms-and-conditions.md",
@@ -979,5 +979,22 @@
       "legal"
     ],
     "genUrl": "/agreements/project-contribution/asset-transfer-amendment.html"
+  },
+  "policies/trademark-costs.md": {
+    "date": "2025-10-06T23:18:53.000Z",
+    "srcPath": "policies/trademark-costs.md",
+    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
+    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/policies/trademark-costs.md",
+    "type": "submodule",
+    "layout": "layouts/policies.vto",
+    "cssclasses": [
+      "bylaws",
+      "has-aside"
+    ],
+    "tags": [
+      "policies",
+      "legal"
+    ],
+    "genUrl": "/policies/trademark-costs.html"
   }
 }
