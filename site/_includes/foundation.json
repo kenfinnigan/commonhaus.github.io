@@ -36,7 +36,7 @@
     "genUrl": "/CONTRIBUTING.html"
   },
   "TRADEMARKS.md": {
-    "date": "2025-12-12T14:14:34.000Z",
+    "date": "2026-02-26T17:23:20.000Z",
     "srcPath": "TRADEMARKS.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/TRADEMARKS.md",
@@ -172,23 +172,6 @@
       "legal"
     ],
     "genUrl": "/policies/security-policy.html"
-  },
-  "policies/CLA.md": {
-    "date": "2024-02-16T18:24:37.000Z",
-    "srcPath": "policies/CLA.md",
-    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
-    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/policies/CLA.md",
-    "type": "submodule",
-    "layout": "layouts/policies.vto",
-    "cssclasses": [
-      "bylaws",
-      "has-aside"
-    ],
-    "tags": [
-      "policies",
-      "legal"
-    ],
-    "genUrl": "/policies/CLA.html"
   },
   "policies/code-of-conduct.md": {
     "date": "2026-02-03T11:21:49.000Z",
@@ -431,7 +414,7 @@
     "genUrl": "/agreements/membership/members.yaml"
   },
   "PROJECTS.yaml": {
-    "date": "2026-02-17T20:13:14.000Z",
+    "date": "2026-02-26T17:23:20.000Z",
     "srcPath": "PROJECTS.yaml",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/PROJECTS.yaml",
@@ -445,7 +428,7 @@
     "genUrl": "/SUPPORTERS.yaml"
   },
   "CONTACTS.yaml": {
-    "date": "2025-10-15T20:35:16.000Z",
+    "date": "2026-02-26T17:23:20.000Z",
     "srcPath": "CONTACTS.yaml",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/CONTACTS.yaml",
