@@ -414,7 +414,7 @@
     "genUrl": "/agreements/membership/members.yaml"
   },
   "PROJECTS.yaml": {
-    "date": "2026-04-06T20:36:59.000Z",
+    "date": "2026-04-16T18:39:19.000Z",
     "srcPath": "PROJECTS.yaml",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/PROJECTS.yaml",
@@ -588,7 +588,7 @@
     "genUrl": "/bylaws/7-notice-records.html"
   },
   "SPONSORS.yaml": {
-    "date": "2026-02-03T12:51:22.000Z",
+    "date": "2026-04-16T18:10:39.000Z",
     "srcPath": "SPONSORS.yaml",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/SPONSORS.yaml",
@@ -714,7 +714,7 @@
     "genUrl": "/agreements/bootstrapping/2024-03-25-bootstrapping-openrewrite-withdrawn.html"
   },
   "agreements/project-contribution/terms-and-conditions.md": {
-    "date": "2025-10-06T23:18:53.000Z",
+    "date": "2026-04-16T18:39:19.000Z",
     "srcPath": "agreements/project-contribution/terms-and-conditions.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/project-contribution/terms-and-conditions.md",
@@ -799,7 +799,7 @@
     "genUrl": "/agreements/project-contribution/onboarding-checklist.html"
   },
   "agreements/sponsorship/README.md": {
-    "date": "2025-12-09T15:25:46.000Z",
+    "date": "2026-04-16T18:49:14.000Z",
     "srcPath": "agreements/sponsorship/README.md",
     "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
     "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/sponsorship/README.md",
@@ -979,5 +979,22 @@
       "legal"
     ],
     "genUrl": "/policies/trademark-costs.html"
+  },
+  "agreements/sponsorship/ossi-addendum.md": {
+    "date": "2026-04-16T18:39:19.000Z",
+    "srcPath": "agreements/sponsorship/ossi-addendum.md",
+    "githubUrl": "https://github.com/commonhaus/foundation/blob/main/",
+    "repoUrl": "https://github.com/commonhaus/foundation/blob/main/agreements/sponsorship/ossi-addendum.md",
+    "type": "submodule",
+    "layout": "layouts/policies.vto",
+    "cssclasses": [
+      "bylaws",
+      "has-aside"
+    ],
+    "tags": [
+      "policies",
+      "legal"
+    ],
+    "genUrl": "/agreements/sponsorship/ossi-addendum.html"
   }
 }
